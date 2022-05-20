@@ -1,0 +1,49 @@
+.main {
+    width: 50%;
+    margin: auto;   
+    padding-bottom: 20px;
+}
+
+.logo {
+    background-color: black;
+    padding: 5px 3px;
+}
+
+.logo-letter {
+    text-transform: uppercase;
+    background-color: blanchedalmond;
+    color: black;
+    margin-right: 3px;
+    font-weight: 900;
+    padding: 0;
+}
+
+.title {
+    background-color: brown;
+    padding: 5px;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 900;
+    border-bottom: 2px solid lightgrey;
+}
+
+.content{
+    height: 70vh;
+    padding-bottom: 30px;
+    overflow-y: scroll;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.item {
+    margin: 5px;
+    padding: 8px 0;
+    border-bottom: 1px dotted black;
+}
+
+.item-content {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
