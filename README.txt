@@ -1,11 +1,12 @@
-# data-temp2
+
 # Appointment Scheduler System
+
 Title: <title_name>
-Author: <author_name>
-Date: <date>
-IDE: Intellij IDE
-JAVA SE 17
-JavaFx 17.0.1
+Author: <author_name>\
+Date: <date>\
+IDE: Intellij IDE\
+JAVA SE 17\
+JavaFx 17.0.1\
 Mysql Driver: <mysql-connector-java-8.0.29 - add ur jar name here>
 
 ## Description
